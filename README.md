@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-A diabetes prediction model using a support vector machine model. 
+Female Diabetes Prediction Model using a Support Vector Machine (SVM)
